@@ -1,0 +1,42 @@
+{
+  "type": ["null", "object"],
+  "additionalProperties": false,
+  "properties": {
+    "Account.Name": {
+      "type": ["string", "null"]
+    },
+    "Account.BillingState": {
+      "type": ["string", "null"]
+    },
+    "Account.BillingCountry": {
+      "type": ["string", "null"]
+    },
+    "Amount": {
+      "type": ["number", "null"]
+    },
+    "IsClosed": {
+      "type": ["string", "null"]
+    },
+    "IsWon": {
+      "type": ["string", "null"]
+    },
+    "LeadSource": {
+      "type": ["string", "null"]
+    },
+    "Name": {
+      "type": ["string", "null"]
+    },
+    "Owner.Name": {
+      "type": ["string", "null"]
+    },
+    "StageName": {
+      "type": ["string", "null"]
+    },
+    "_BATCH_ID_": {
+      "type": ["number", "null"]
+    },
+    "UpdatedAt": {
+      "type": ["string", "null"]
+    }
+  }
+}
